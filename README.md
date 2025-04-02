@@ -9,6 +9,9 @@ com isso a criança poderá de forma divertida aprender e dominar tanto a lingua
 
 kodland-kodland-jogocobrinha.sb3
 
+LINK DO PROJETO:
+https://scratch.mit.edu/projects/1156280390/
+
 # Arquivo do projeto em python utilizando a biblioteca pygame
 scratch.py
 
